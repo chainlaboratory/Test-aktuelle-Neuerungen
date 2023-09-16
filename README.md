@@ -6,6 +6,7 @@ remote: Please see https://docs.github.com/en/get-started/getting-started-with-g
 
 ### Support for password authentication was removed on August 13, 2021.
 Was jetzt? Wir brauchen einen ssh key.
+
 `ssh-keygen -t ed25519 -C "your_email@example.com"`
 
 
