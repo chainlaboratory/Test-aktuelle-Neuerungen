@@ -26,5 +26,5 @@ Den Key kopieren (copy/past
 
 `$ cat ~/.ssh/id_ed25519.pub`
 
-Der Key kann jetzt im Github Account eingefügt werden. Auf das Photo Icon clicken => Settngs => SSH and GPG keys
+Der Key kann jetzt im Github Account eingefügt werden. Im Hauptmenu => Settngs => SSH and GPG keys
 
