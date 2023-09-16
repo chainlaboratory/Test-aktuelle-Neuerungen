@@ -18,6 +18,11 @@ Den ssh Key Agent aktivieren
 
 `$ eval "$(ssh-agent -s)"  > Agent pid 59566`
 
+Den neuen Key dem Agenten hinzufügen
+
+`ssh-add ~/.ssh/id_ed25519`
+
+
 
 
 Really Fast Quick Start
