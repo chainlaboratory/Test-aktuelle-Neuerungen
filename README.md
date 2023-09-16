@@ -28,3 +28,9 @@ Den Key kopieren (copy/past)
 
 Der Key kann jetzt im Github Account eingefügt werden. Im Hauptmenu => Settngs => SSH and GPG keys
 
+Jetzt funktionieren
+
+`git clone git@github.com:chainlaboratory/chart-ticker.git`
+
+`git push`
+
