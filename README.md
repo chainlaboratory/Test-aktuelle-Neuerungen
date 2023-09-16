@@ -30,7 +30,7 @@ Der Key kann jetzt im Github Account eingefügt werden. Im Hauptmenu => Settngs 
 
 Jetzt funktionieren
 
-`git clone git@github.com:chainlaboratory/chart-ticker.git`
+`git clone git@github.com:chainlaboratory/clone-push-ssh.git`
 
 `git push`
 
