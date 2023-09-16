@@ -8,6 +8,10 @@ remote: Please see https://docs.github.com/en/get-started/getting-started-with-g
 Was jetzt? Wir brauchen einen ssh key.
 
 `ssh-keygen -t ed25519 -C "your_email@example.com"`
+...dann Enter  um das Standard File zu akzeptieren.
+Die Aufforderung zur Passwortgenerierung ist fakultativ
+und kann mit Enter übersprungen werden. Der Public Key
+befindet sich im Verzeichnis ``
 
 
 
