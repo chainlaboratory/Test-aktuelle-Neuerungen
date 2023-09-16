@@ -4,12 +4,11 @@ Password for 'https://chainlaboratory@github.com':
 remote: Support for password authentication was removed on August 13, 2021.
 remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.`
 
+###Support for password authentication was removed on August 13, 2021.
+Was jetzt? Wir brauchen einen ssh key.
 
-administrator@bitcoinnode:~/chart-ticker$ git push
-Username for 'https://github.com': chainlaboratory
-Password for 'https://chainlaboratory@github.com':
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+
+
 
       `sowieso einfach`
 
