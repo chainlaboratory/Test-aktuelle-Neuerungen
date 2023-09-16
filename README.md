@@ -22,7 +22,7 @@ Den neuen Key dem Agenten hinzufügen
 
 `ssh-add ~/.ssh/id_ed25519`
 
-Den Key kopieren (copy/past
+Den Key kopieren (copy/past)
 
 `$ cat ~/.ssh/id_ed25519.pub`
 
