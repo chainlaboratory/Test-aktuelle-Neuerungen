@@ -22,14 +22,9 @@ Den neuen Key dem Agenten hinzufügen
 
 `ssh-add ~/.ssh/id_ed25519`
 
+Den Key kopieren (copy/past
 
+`$ cat ~/.ssh/id_ed25519.pub`
 
-
-Really Fast Quick Start
------------------------
-
-One liner for Ubuntu 14.04 LTS machines with JSON-RPC enabled on localhost and adds upstart init script:
-
-    curl https://raw.githubusercontent.com/kylemanna/docker-bitcoind/master/bootstrap-host.sh | sh -s trusty
-
+Der Key kann jetzt im Github Account eingefügt werden. Auf das Photo Icon clicken => Settngs => SSH and GPG keys
 
