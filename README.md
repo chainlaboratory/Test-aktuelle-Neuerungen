@@ -1,4 +1,4 @@
-# clone und push mit ssh in Ubuntu Terminal 
+# clone und push mit ssh im Ubuntu Terminal 
 Die Eingabe `git push`erzeugt die Ausgabe `Username for 'https://github.com': chainlaboratory
 Password for 'https://chainlaboratory@github.com':
 remote: Support for password authentication was removed on August 13, 2021.
@@ -6,11 +6,9 @@ remote: Please see https://docs.github.com/en/get-started/getting-started-with-g
 
 ### Support for password authentication was removed on August 13, 2021.
 Was jetzt? Wir brauchen einen ssh key.
+`ssh-keygen -t ed25519 -C "your_email@example.com"`
 
 
-
-
-      `sowieso einfach`
 
 Really Fast Quick Start
 -----------------------
