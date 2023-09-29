@@ -16,15 +16,18 @@ befindet sich im Verzeichnis `.ssh/id_ed25519.pub`
 
 Den ssh Key Agent aktivieren
 
-`$ eval "$(ssh-agent -s)"
+starten des ssh-agent im Hintergrund
 
-> Agent pid 59566
+`$ eval "$(ssh-agent -s)"`
 
-$ ssh-add
+Agent pid 59566
 
-> Enter passphrase for /home/YOU/.ssh/id_rsa: [tippy tap]
+`$ ssh-add`
 
-> Identity added: /home/YOU/.ssh/id_rsa (/home/YOU/.ssh/id_rsa)`
+Enter passphrase for /home/YOU/.ssh/id_rsa: [tippy tap]
+
+Identity added: /home/YOU/.ssh/id_rsa (/home/YOU/.ssh/id_rsa)
+
 
 Den Key kopieren (copy/paste)
 
