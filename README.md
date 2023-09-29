@@ -26,10 +26,6 @@ $ ssh-add
 
 > Identity added: /home/YOU/.ssh/id_rsa (/home/YOU/.ssh/id_rsa)`
 
-Den neuen Key dem Agenten hinzufügen
-
-`ssh-add ~/.ssh/id_ed25519`
-
 Den Key kopieren (copy/paste)
 
 `$ cat ~/.ssh/id_ed25519.pub`
