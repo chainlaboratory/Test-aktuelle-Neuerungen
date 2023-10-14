@@ -33,7 +33,7 @@ Den Key kopieren (copy/paste)
 
 `$ cat ~/.ssh/id_ed25519.pub`
 
-Der Key kann jetzt im Github Account eingefügt werden. Im Hauptmenu => Settngs => SSH and GPG keys
+Der Key kann jetzt im Github Account eingefügt werden. Im Hauptmenu => Settings => SSH and GPG keys
 
 Jetzt funktionieren
 
